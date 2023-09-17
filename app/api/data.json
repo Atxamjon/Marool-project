@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "High",
+      "use": "крем для лица",
+      "price": 990,
+      "quantity": "50ml",
+      "img": "/images/product-1.png"
+    },
+    {
+      "id": 2,
+      "name": "Rest",
+      "use": "минеральная пудра",
+      "price": 690,
+      "quantity": "20g",
+      "img": "/images/product-2.png"
+    },
+    {
+      "id": 3,
+      "name": "Rose",
+      "use": "крем для лица",
+      "price": 890,
+      "quantity": "50ml",
+      "img": "/images/product-3.png"
+    },
+    {
+      "id": 4,
+      "name": "Milk",
+      "use": "масло для тела",
+      "price": 790,
+      "quantity": "150ml",
+      "img": "/images/product-4.png"
+    },
+    {
+      "id": 5,
+      "name": "Paradise",
+      "use": "минеральная пудра",
+      "price": 590,
+      "quantity": "15g",
+      "img": "/images/product-5.png"
+    },
+    {
+      "id": 6,
+      "name": "Sun",
+      "use": "бомбочка для ванны",
+      "price": 90,
+      "quantity": "20g",
+      "img": "/images/product-6.png"
+    },
+    {
+      "id": 7,
+      "name": "Violet",
+      "use": "крем для лица",
+      "price": 890,
+      "quantity": "50ml",
+      "img": "/images/product-7.png"
+    },
+    {
+      "id": 8,
+      "name": "Clean",
+      "use": "маска для лица",
+      "price": 490,
+      "quantity": "100g",
+      "img": "/images/product-8.png"
+    },
+    {
+      "id": 9,
+      "name": "Coconut",
+      "use": "масло для тела",
+      "price": 990,
+      "quantity": "300ml",
+      "img": "/images/product-9.png"
+    },
+    {
+      "id": 10,
+      "name": "Lavender",
+      "use": "масло для тела",
+      "price": 200,
+      "quantity": "50g",
+      "img": "/images/product-10.png"
+    },
+    {
+      "id": 11,
+      "name": "Lotos",
+      "use": "маска для лица",
+      "price": 890,
+      "quantity": "50ml",
+      "img": "/images/product-11.png"
+    },
+    {
+      "id": 12,
+      "name": "Earth",
+      "use": "бомбочка для ванны",
+      "price": 90,
+      "quantity": "20g",
+      "img": "/images/product-12.png"
+    }
+  ]
+}
